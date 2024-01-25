@@ -1,6 +1,8 @@
 # if my_resume ! = novel : pass
 
 ---
+
+|---|---|
 |---|---|
 |date|2023. 11 ~ 2024. 01|
 |tools|python, gcp, vertax AI|
