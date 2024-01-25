@@ -26,8 +26,7 @@
 ### Contributor🧚🏻‍♂️
 <table>
   <tr>
-    <td align="center"><a href="http://zzsza.github.io"><img src="![image](https://github.com/AsellaS2/gcpchat/assets/69001369/8ef64b50-5a40-40e3-ba8b-33f12f237643)
-" width="100px;" alt=""/><br /><sub><b>Jung Mi young</b></sub><br/>    
+    <td align="center"><a href="https://github.com/AsellaS2"><img src="https://github.com/AsellaS2/gcpchat/assets/69001369/8ef64b50-5a40-40e3-ba8b-33f12f237643" width="100px;" alt=""/><br /><sub><b>Jung Mi young</b></sub><br/>    
      </tr>
 </table>
 
