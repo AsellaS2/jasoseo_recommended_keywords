@@ -26,9 +26,9 @@
 ### Contributor🧚🏻‍♂️
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/AsellaS2"><img src="https://github.com/AsellaS2/gcpchat/assets/69001369/8ef64b50-5a40-40e3-ba8b-33f12f237643" width="100px;" alt=""/><br /><sub><b>Mi young Jung</b></sub><br/> </a></td>
+    <td align="center"><a href="https://github.com/AsellaS2"><img src="https://github.com/AsellaS2/gcpchat/assets/69001369/8ef64b50-5a40-40e3-ba8b-33f12f237643" width="100px;" alt=""/><br/><sub><b>Mi young Jung</b></sub><br/> </a></td>
     <td align="center"><a href="https://github.com/ricecakeblack"><img src="https://github.com/AsellaS2/gcpchat/assets/69001369/c5d5221e-974c-4de4-b57b-09bded2fc308
-" width="100px;" alt=""/><br /><sub><b>Gina Lee</b></sub><br/> </a></td>
+" width="100px;" alt=""/><br/><sub><b>Gina Lee</b></sub><br/> </a></td>
     <td align="center"><a href="https://github.com/Eunjeong1004"><img src="https://github.com/AsellaS2/gcpchat/assets/69001369/f675e5d1-2508-464f-b0c7-4a53711ec1b3
 " width="100px;" alt=""/><br /><sub><b>Eunjeong Chang</b></sub><br/> </a></td>
      </tr>
